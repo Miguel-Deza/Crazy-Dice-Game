@@ -12,8 +12,8 @@ Get ready for an electrifying experience in the world of randomness and exciteme
 - The game calculates the total, and the tension builds up to unveil the ultimate question: Are you a winner? 🏆
 
 ## The Excitement Unfolds:
-- 🎉 If the total is 7 or 11, you're in luck! You're a WINNER, and the confetti starts raining down! 🎊
-- 😢 But beware, if the total doesn't hit the magic numbers, don't worry; it's all part of the crazy fun! Better luck next time! 🍀
+- 🎉 If the major that the other, you're in luck! You're a WINNER, and the confetti starts raining down! 🎊
+- 😢 But beware, if the total isn't enough, don't worry; it's all part of the crazy fun! Better luck next time! 🍀
 
 ## Key Features:
 - The dice are alive with animated emojis that bring a dash of madness to every roll. 🌀
